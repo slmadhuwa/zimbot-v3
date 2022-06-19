@@ -39,8 +39,8 @@ global.APIKeys = {
 // Other
 global.owner = ['380944186050']
 global.premium = ['380944186050']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.botname = 'SlM BOT MD'
+global.ownername = 'SLMADHUWA'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
 global.packname = 'ZIM BOT INC'
